@@ -2,11 +2,9 @@
 
 ### Student at University of Washington, Seattle🏔️, Majoring in Computer Science and Engineering.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Yuzhifur/Yuzhifur/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<div align="center">
+  <img src="https://github.com/Yuzhifur/Yuzhifur/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 
 - 🔭 I'm currently working on [Sentra Chatbot](https://github.com/Yuzhifur/Sentra-Chatbot)
