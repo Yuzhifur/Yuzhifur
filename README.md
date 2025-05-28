@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yuzhi/Yuzheng/与纸</h1>
 <h3 align="center">Student at University of Washington, Seattle🏔️, Majoring in Computer Science and Engineering.</h3>
 
-- 🔭 I’m currently working on [Sentra](https://github.com/Yuzhifur/Sentra-Chatbot)
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+
+- 🔭 I’m currently working on [Sentra Chatbot](https://github.com/Yuzhifur/Sentra-Chatbot)
 
 - 🌱 I’m currently learning **C++ programming, Prompt Engineering**
 
