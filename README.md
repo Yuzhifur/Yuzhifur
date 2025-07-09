@@ -15,13 +15,13 @@
 
 - 🌱 I'm currently learning **Agent Design with Dify/Cozi, Prompt Optimization**
 
-- 🔥 I'm passionate about startup in **AI fortune telling** and **AI psychological counseling**.
+- 🔥 I'm highly interested in AI startup opportunities, especially **AI fortune telling** and/or **AI psychological counseling**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yuzhifur](https://github.com/Yuzhifur)
 
 - 📫 How to reach me **yzz997819@gmail.com**
 
-- ⚡ Fun fact: **Highly interested in visual arts, fortune telling, dragons, fluffy creatures, and more :)**
+- ⚡ Fun fact: **I love visual arts, fortune telling, dragons, fluffy creatures, and more :)**
 
 
 # 📊 Statistics
