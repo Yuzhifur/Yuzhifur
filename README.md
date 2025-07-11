@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 
-### 😎 Vibe Coding with AI -- Cursor | Claude Code | Figma | Prompt Engineering | Agent Design
+### 😎 Formal Vibe Coding with AI -- Cursor | Claude Code | Figma | Prompt Engineering | Agent Design
 ### 💜 Paul G. Allen School of Computer Science and Engineering, UW Seattle.
 
 <div align="center">
