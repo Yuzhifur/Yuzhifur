@@ -34,7 +34,7 @@
 
 <br clear="both"/>
 
-# Languages and Tools:
+# 🛠️ Languages and Tools:
 <div align="center">
 
 <!-- Thanks to Logo Author: SAWARATSUKI <3 -->
