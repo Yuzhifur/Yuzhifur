@@ -18,7 +18,7 @@ jobs:
             with:
               filename: github-basic.svg
               token: ${{ secrets.METRICS_TOKEN }}
-              config_timezone: Seattle
+              config_timezone: America/Los_Angeles
               base: header, activity, community, repositories, metadata
               base_indepth: yes
               plugin_achievements: yes
@@ -34,7 +34,7 @@ jobs:
             with:
               filename: github-languages.svg
               token: ${{ secrets.METRICS_TOKEN }}
-              config_timezone: Seattle
+              config_timezone: America/Los_Angeles
               base: ""
               plugin_introduction: yes
               plugin_introduction_title: yes
@@ -61,7 +61,7 @@ jobs:
             with:
               filename: github-ysdag.svg
               token: ${{ secrets.METRICS_TOKEN }}
-              config_timezone: Seattle
+              config_timezone: America/Los_Angeles
               base: ""
               plugin_people: yes
               plugin_people_limit: 24
@@ -73,7 +73,7 @@ jobs:
             with:
               filename: github-steam.svg
               token: ${{ secrets.METRICS_TOKEN }}
-              config_timezone: Seattle
+              config_timezone: America/Los_Angeles
               base: ""
               plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
               plugin_steam: yes
