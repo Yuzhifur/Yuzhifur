@@ -27,7 +27,7 @@
 # 📊 Statistics
 
 [<img align="left" width="390" alt="GitHub basic" src="https://raw.githubusercontent.com/Yuzhifur/Yuzhifur/main/github-basic.svg" />](#)
-[<img align="right" style="padding-right:10;" width="390" alt="GitHub basic" src="https://steam-stat.vercel.app/api?profileName=yuzhifur" />](#)
+[<img align="left" width="390" alt="GitHub basic" src="https://raw.githubusercontent.com/Yuzhifur/Yuzhifur/main/github-steam.svg" />](#)
 [<img align="right" width="390" alt="GitHub language" src="https://raw.githubusercontent.com/Yuzhifur/Yuzhifur/main/github-languages.svg" />](#)
 [<img align="right" width="390" alt="GitHub language" src="https://raw.githubusercontent.com/Yuzhifur/Yuzhifur/main/github-ysdag.svg" />](#)
 
