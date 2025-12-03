@@ -3,25 +3,26 @@
 </p>
 <p align="center">
 
-### 😎 Formal Vibe Coding with AI -- Claude Code | Figma | Prompt Engineering | Agent Design
+### 😎 Coding and Prompt Engineering with AI -- Claude Code | Figma | Agent Design | Google AI Studio
 ### 💜 Paul G. Allen School of Computer Science and Engineering, UW Seattle.
 
 <div align="center">
   <img src="https://github.com/Yuzhifur/Yuzhifur/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" title="Happy Coding uwu" />
 </div>
 
+- 🔭 I'm currently working on [AI Psychological Therapy Training Platform] at **TmindAI**.
 
-- 🔭 I'm currently working on [AI Software Development Tutorial for Zero Experience] at **I3 @ Shanghai Jiaotong University**.
+- 🌱 I'm currently independently learning Agent Design with Dify/Cozi, Prompt Optimization.
 
-- 🌱 I'm currently learning **Agent Design with Dify/Cozi, Prompt Optimization**
+- 📖 My classes for **Winter 2025** at UW: CSE 478 **Autonomous Robotics**, CSE 481V **Capstone VR/AR**, CSE 490A **Software Entrepreneurship**, CSE 492F **Program Management Seminar**.
 
-- 🔥 I'm highly interested in AI startup opportunities, especially **AI fortune telling** and/or **AI psychological counseling**.
+- 🔥 I'm highly interested in startup ideas: **AI-driven Therapist Training**, **Fortune Telling**, **Story and Visual Generation**, etc.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yuzhifur](https://github.com/Yuzhifur)
+- 👨‍💻 All of my projects are available at **[https://github.com/Yuzhifur](https://github.com/Yuzhifur)**.
 
-- 📫 How to reach me **yzz997819@gmail.com**
+- 📫 How to reach me **yzz997819@gmail.com**.
 
-- ⚡ Fun fact: **I love visual arts, fortune telling, dragons, fluffy creatures, and more :)**
+- ⚡ Fun fact: I love **visual arts**, **handcrafting**, **photography**, **fortune telling**, **dragons**, **and more :)**
 
 
 # 📊 Statistics
