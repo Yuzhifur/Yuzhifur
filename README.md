@@ -14,7 +14,7 @@
 
 - 🌱 I'm currently independently learning Agent Design with Dify/Cozi, Prompt Optimization.
 
-- 📖 My classes for **Winter 2025** at UW: CSE 478 **Autonomous Robotics**, CSE 481V **Capstone VR/AR**, CSE 490A **Software Entrepreneurship**, CSE 492F **Program Management Seminar**.
+- 📖 My classes for **Winter 2025** at UW: CSE 452 **Distributed Systems**, CSE 493L **Concurrency and Rust**, CSE 461 **Computer Communication Networks**.
 
 - 🔥 I'm highly interested in startup ideas: **AI-driven Therapist Training**, **Fortune Telling**, **Story and Visual Generation**, etc.
 
