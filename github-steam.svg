@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            2.41k hours played
+                            2.45k hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        69 hours played
+                                        104 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 28 Feb 2026
+                                        Last played on 8 Mar 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            34 / 49 achievements unlocked
+                                            36 / 49 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwUBBgcC/8QAMBAAAQMDAwIDBQkAAAAAAAAAAQIDBAUGEQASITFBBxMUIjJRYXEXNkJWdIGRobL/xAAWAQEBAQAAAAAAAAAAAAAAAAACBAP/xAAfEQACAgEEAwAAAAAAAAAAAAABAgARAxIhMUETUWH/2gAMAwEAAhEDEQA/AM/vm/Loavi4UwLlqzUMT3gw23KUEob3HaAM8DGkf2g3h+aayPifVr4/vS67fvRVv1Tn+tHs21pN3VRynxX2o4bZMh51z8KAQAAO5JI41Mi41xhmA49RkEtQh4F8X5VqmxCp1x116TIWG2mkS15JPTv/ACdarNrlzWxfllUKfX6g/HRIbdlPLkKJlBSk+ZuBPuAgpSD2B+Oj0Zmy/Db09RW8h+o+W4yFttqUpAPvKwoY5I2j9+2dZU9ccq4PESnVCYol6TLaShJAHltBXsp44+vzzqY6ctsq0AD18munTseTOKrRpVavutQ4IQXkvSHcLVtBCMqIz9Bq/wBDREotEjwWGYLNUWpYeWt47JAO32wrPGMYxx2xqJEGoWrdVUqke351Wnyn3Vs+nbJbaaUSMLOMHcD0HIHftqqXcm7blRGZNpyYEOMVKbaYirJ3KGCVLPJzgaBbzBVsBaiFJZreR4wSI8i6i2w84+zFYQZLu/egvEe1tPTHQDVMs1apN80VR6qmtcfAbhp5W6JecyFHhOUerOMNDhKYygkc5CeB0BJPyzrqx7RuKJd1Efk0OpNNJmNKccXHUEoSFDJJ7apDImErY4PcyNl7n//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwUGAwQI/8QALBAAAQMDAwMCBQUAAAAAAAAAAQIDBAUGEQASIQcTMUFxFBUiUYEjMkKxsv/EABcBAQADAAAAAAAAAAAAAAAAAAMCBAX/xAAdEQACAwEBAAMAAAAAAAAAAAABAgADESExBEGB/9oADAMBAAIRAxEAPwA/vm/Loavi4UwLlqzUMT3gw23KUEob3HaAM8DGrH0xVeN2hybKvKsNU+O8GnG0S19xfAJAOcJGD599F928XPVs8YlOf60udHWarbdk1Osrb3xZLgUiGQkKWkDHcH8vXj0I986z7gqUAgAE59R612zD5L7W7dm1BIFNu246c4lB+pmoLdSrHqQonx7jQ9bF13ZTeqFLptVumpzIjVSbQ6TKUpp5rcOfOCkjSFTb1rXzCkMx6etTjqld9oNgqCdxBH7QRjGeSeONGF4RJNH6xtRZbUJt96c06kw2+22ppRBSoJ9Cc8/nz51W+N0Mrd4YtqjmRD6dUCgzatcEyfCRJqqanJaaLid6UISlJP0+M4Urkj+tblGu2Mu7albM91DcxipLYiqKQltLYQntgn3yPyNZOm0GdEuu5viYz0eKufIebddQUpcCmykFJPkZxqYuS0mqvKiONCOphiWtyS08cfEKUrO4ccYUBz9vHGgexdxjvB+RFBzRLnXmYkaiTZNQlNRoIbBdecOzYMjI3Zwd3jgZOeNc09RS0vr7TWGAsFhyGypKjkJIAwlP2ABGpHqrZlbVRm1w59Rq75l/qw2UvuNpyCd6d3GARjjjnUjfVrTH+rFu3BT4kt1mcqK7LR2TmKpAQFbyMgZx9/Q6akVoNDegyDlm5nhE/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Infernal Arms</div>
-                                                <div class="unlocked">10 Feb 2026</div>
+                                                <div>The Useless Trinket</div>
+                                                <div class="unlocked">5 Mar 2026</div>
                                             </div>
-                                            <div class="description">Unlock all Weapon Aspects</div>
+                                            <div class="description">Earn the first of Skelly's prizes</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBQP/xAAvEAABAwMCBQIDCQAAAAAAAAABAgMEBQYRACEHEhMxYUFRCBUiFiQyM3SBobGy/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQMAAgT/xAAeEQEAAgICAwEAAAAAAAAAAAABAAIDESFREiIxYf/aAAwDAQACEQMRAD8AX9835dDV8XCmBctWahie8GG25SglDfMeUAZ2GNcLXuu9K7cMGmtXPWj13Pq++qThAGVHJPsDoZu3a56t+qc/1p5cM+HlGXGpVUTEkOShHQuSZL46ZKx6IA7cwIxnsM+usS46Yqqcp1+RpVbJ1BXjTc9boVVpaKHX61DS9HUXWvmTjmSF4Svc5GR/IPtrA4d37dLt8UBuo3LV3oapzXXbclKUlSOYZBGdxjRp8StIFUdgVynMZbhsqalKSdggryggeCSP3Gk9aq+hctFQPzHZbWfCeYf3oY60cC65BhuPnqbj0KBO4oSIdYeUzAdqK23lpODgqIAz6ZOBnzqqocZNDjMsMU9TcPkCfpUXEKwO+N8KwBnHfGdSzeNuXJ9talKp9FqLjaZy32nUR1KSoheUke40cWrd3EBFzsSarTKlHhOrQiQhmGotcg9S3g779xvpOb2pVrb4dkvRBdka140lm7KDNhKM2LEdHM5OdAAPgIx+HYZJx276kq1cu8QaUnmC8VBCQpPYgLwCPG2npfl7XimsVGHSaHNq1Kdj9JtS4jjaG1KThRSMAq3J3V40pbGtC4od20N6TQ6k0yiY0XHFx1BKEBQySfTRw2K4rbTk7kyc2NT/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABQYHAQID/8QAKhAAAgEDAwIGAgMBAAAAAAAAAQIDBAURAAYhEjEHEyJBUWEjgRQVceH/xAAYAQADAQEAAAAAAAAAAAAAAAABAgMEBf/EABwRAAMBAQADAQAAAAAAAAAAAAECAwAREiExQf/aAAwDAQACEQMRAD8AQN7b53Uu+twR23cd4Wl/nzeRDFUuFSMMcBQDwANVrwxvd2i25R1+6b1VpJUqPJjlmkd5I8n8hBzy2ewHZR86nlftqiN9N6hq54Zo6wtUQKDhl9yHXlc9j9HjR6gtsd4rIpJqYlCcKqKekjvkfX+fGuPSkzNeDa0mQx7seL933dFHLX7avd0FuhliWUQyusiM6nAx8cZIxwSNI3h3v3dMu+LBHcdyXeajaui8+OSqZlZOoZBBPIxqkXpq6KRhVmueniAXrJyyj2yRyOcf80q2naVrtV4p66CeSdpZA0aunSqEnso5JxnudMlZiRBA+YNIlhzbyXgVO8ZbBtm2q9ymqJVklr5SVkkAJ6EAPpBIwCT+tPG2L5NabgsMkFRMzUbARIAZIcEMeke5XqPpzzrrsvYVPY963Ddl6qo5ZDNNLR00ALlOvPrbjlukkBR2zoitshp90zXOAVKxzKZBEIxhGbGQCB+/rHxqNGkVAU/movl0k4FuPcMt1rIkmikSmESqrTjy3l6WYFnX2OQfTzxj30BvN8/p9x7ctFz2rQipukUM61IlYNCWYjAwAGK4Hf5093yz0l5vcDyrWRRx9TsFUfmOOAWxgH70X3DQ2a/m3pdqKcVttkWWjq0HZhjjqA7HA6gRjjg9jpUeYU9xYN31v//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Thanks, But No Thanks</div>
-                                                <div class="unlocked">10 Feb 2026</div>
+                                                <div>Night and Darkness</div>
+                                                <div class="unlocked">1 Mar 2026</div>
                                             </div>
-                                            <div class="description">Purge a Legendary Boon</div>
+                                            <div class="description">Fulfill the 'Night and Darkness' Prophecy</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+32 others...</div>
+                                            <div class="description ellipsis">+34 others...</div>
                                         </div>
                                     </div>
                                 </div>
