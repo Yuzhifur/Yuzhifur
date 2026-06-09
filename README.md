@@ -3,26 +3,27 @@
 </p>
 <p align="center">
 
-### 😎 Coding and Prompt Engineering with AI -- Claude Code | Figma | Agent Design | Google AI Studio
-### 💜 Paul G. Allen School of Computer Science and Engineering, UW Seattle.
+### 😎 I research, code, and evaluate with AI -- Claude Code | Codex | Cursor
+### 💜 Paul G. Allen School of Computer Science and Engineering, UW Seattle, 2022-2026
+### ❤️ Carnegie Mellon University, School of Computer Science, 2026-2028
 
 <div align="center">
   <img src="https://github.com/Yuzhifur/Yuzhifur/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" title="Happy Coding uwu" />
 </div>
 
-- 🔭 I'm currently working on [AI Psychological Therapy Training Platform] at **TmindAI**.
+- 🔭 I'm currently working on **AI Psychological Therapy Training Platform** at **TmindAI**.
 
-- 🌱 I'm currently independently learning Agent Design with Dify/Cozi, Prompt Optimization.
+- 🌱 I'm independently building **Bayesian Avalon Reasoning Agent**, exploring how carefully designed agent systems and small specialized models can outperform much larger LLMs.
 
-- 📖 My classes for **Winter 2025** at UW: CSE 452 **Distributed Systems**, CSE 493L **Concurrency and Rust**, CSE 461 **Computer Communication Networks**.
+- 📖 My classes for 2026 Academic year at UW: CSE 493S **Advanced ML**, CSE 447 **Natural Language Processing**, CSE 493L **Concurrency and Rust**, CSE 451 **Operating Systems**.
 
-- 🔥 I'm highly interested in startup ideas: **AI-driven Therapist Training**, **Fortune Telling**, **Story and Visual Generation**, etc.
+- 🔥 I'm highly interested in startup ideas: **Edge Model for Mobile**, **Training/Inferencing Systems**, **Computational Photography**, etc.
 
 - 👨‍💻 All of my projects are available at **[https://github.com/Yuzhifur](https://github.com/Yuzhifur)**.
 
 - 📫 How to reach me **yzz997819@gmail.com**.
 
-- ⚡ Fun fact: I love **visual arts**, **handcrafting**, **photography**, **fortune telling**, **dragons**, **and more :)**
+- ⚡ Fun fact: I love **visual arts**, **handcrafting**, **photography**, **dragons**, **and more :)**
 
 
 # 📊 Statistics
