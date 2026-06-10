@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 
-### 😎 I research, code, and evaluate with AI -- Claude Code | Codex | Cursor
+### 🎯 I research, code, and evaluate with AI -- Claude Code | Codex | Cursor
 ### 💜 Paul G. Allen School of Computer Science and Engineering, UW Seattle, 2022-2026
 ### ❤️ Carnegie Mellon University, School of Computer Science, 2026-2028
 
