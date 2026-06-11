@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 
-### 🎯 I research, code, and evaluate with agents -- Claude Code | Codex | Cursor
+### 🎯 I research, code, and evaluate with agents -- Claude Code MAX | Codex Pro
 ### 💜 Paul G. Allen School of Computer Science and Engineering, UW Seattle, 2022-2026
 ### ❤️ Carnegie Mellon University, School of Computer Science, 2026-2028
 
@@ -17,13 +17,15 @@
 
 - 📖 My classes for 2026 Academic year at UW: CSE 493S **Advanced ML**, CSE 447 **Natural Language Processing**, CSE 493L **Concurrency and Rust**, CSE 451 **Operating Systems**.
 
-- 🔥 I'm highly interested in startup ideas: **Edge Model for Mobile**, **Training/Inferencing Systems**, **Computational Photography**, etc.
+- 💡 I'm highly interested in startup ideas: **Edge Model for Mobile**, **Training/Inferencing Systems**, **Computational Photography**, etc.
 
 - 👨‍💻 All of my projects are available at **[https://github.com/Yuzhifur](https://github.com/Yuzhifur)**.
 
 - 📫 How to reach me **yzz997819@gmail.com**.
 
 - ⚡ Fun fact: I love **visual arts**, **handcrafting**, **photography**, **dragons**, **and more :)**
+
+- 🔥 Peak Token Usage: 183,983k/day
 
 
 # 📊 Statistics
