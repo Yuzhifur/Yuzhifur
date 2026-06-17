@@ -5,7 +5,7 @@
 
 ### 🎯 I'm a software/systems engineer moving into ML research **Fall 2026 incoming CMU MSCS**
 ### ❤️ Carnegie Mellon University, School of Computer Science, MSCS Fall 2026 - Spring 2028
-### 💜 UW Paul G. Allen School of Computer Science and Engineering, B.S in Computer Science, Fall 2022 - Spring 2026
+### 💜 University of Washington, B.S in Computer Science, Fall 2022 - Spring 2026
 
 <div align="center">
   <img src="https://github.com/Yuzhifur/Yuzhifur/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" title="Happy Coding uwu" />
@@ -44,12 +44,12 @@
 <!-- Thanks to Logo Author: SAWARATSUKI <3 -->
 
 <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/C%2CC%23%2CC%2B%2B/All.png" title="Yuzhi" width="210"/>
-<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/React/React.png" title="is" width="300"/>
+<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Rust/Rust.png" title="is" width="300"/>
 <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Figma/Figma.png" title="a" width="210"/>
 
 
 <br/>
-<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Node.js/Node.js.png" title="furry" width="280" />
+<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Cloudflare/Cloudflare.png" title="furry" width="280" />
 <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Python/Python.png" title="coder?!" width="280"/>
 <br/>
 
