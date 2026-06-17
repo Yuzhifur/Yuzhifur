@@ -45,17 +45,18 @@
 
 <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/C%2CC%23%2CC%2B%2B/All.png" title="Yuzhi" width="210"/>
 <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Python/Python.png" title="is" width="300"/>
-<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Rust/Rust.png" title="a" width="210"/>
+<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Figma/Figma.png" title="a" width="210"/>
+
 
 <br/>
-<img src="https://github.com/pytorch-fdn/artwork/blob/main/assets/img/pytorch_foundation_logo/horizontal/png/PyTorchLogoF_Horiz_fullColorWhite.png" title="furry" width="280" />
-<img src="https://github.com/vllm-project/media-kit/blob/main/vLLM-Full-Logo.png" title="furry" width="280" />
+<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Rust/Rust.png" title="furry" width="210"/>
+<img src="https://github.com/vllm-project/media-kit/blob/main/vLLM-Full-Logo.png" title="coder?!" width="280" />
 <br/>
 
 <br/>
-<img src="https://huggingface.co/datasets/huggingface/brand-assets/blob/main/hf-logo-with-title.png" title="furry" width="210" />
-<img src="https://github.com/vllm-project/media-kit/blob/main/vLLM-Full-Logo.png" title="furry" width="280" />
-<img src="https://github.com/vllm-project/media-kit/blob/main/vLLM-Full-Logo.png" title="furry" width="210" />
+<img src="https://github.com/pytorch-fdn/artwork/blob/main/assets/img/pytorch_foundation_logo/horizontal/png/PyTorchLogoF_Horiz_fullColorWhite.png" title="Love" width="280" />
+<img src="hf-logo-with-title.png" title="and" width="280" />
+<img src="docker-logo-ocean-blue.png" title="Peace" width="210" />
 <br/>
 
 
