@@ -50,13 +50,13 @@
 
 <br/>
 <img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Rust/Rust.png" title="furry" width="210"/>
-<img src="https://github.com/vllm-project/media-kit/blob/main/vLLM-Full-Logo.png" title="coder?!" width="280" />
+<img src="docker-logo-ocean-blue.png" title="coder?!" width="210" />
 <br/>
 
 <br/>
-<img src="https://github.com/pytorch-fdn/artwork/blob/main/assets/img/pytorch_foundation_logo/horizontal/png/PyTorchLogoF_Horiz_fullColorWhite.png" title="Love" width="280" />
+<img src="https://github.com/pytorch-fdn/artwork/blob/main/assets/img/pytorch_foundation_logo/horizontal/png/PyTorchLogoF_Horiz_fullColorWhite.png" title="Love" width="200" />
 <img src="hf-logo-with-title.png" title="and" width="280" />
-<img src="docker-logo-ocean-blue.png" title="Peace" width="210" />
+<img src="https://github.com/vllm-project/media-kit/blob/main/vLLM-Full-Logo.png" title="Peace" width="170" />
 <br/>
 
 
