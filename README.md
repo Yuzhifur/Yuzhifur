@@ -49,8 +49,9 @@
 
 
 <br/>
-<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Rust/Rust.png" title="furry" width="200"/>
-<img src="docker-logo-ocean-blue.png" title="coder?!" width="240" />
+<img src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Rust/Rust.png" title="furry" width="200" align="middle"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="docker-logo-ocean-blue.png" title="coder?!" width="240" align="middle" />
 <br/>
 
 <br/>
