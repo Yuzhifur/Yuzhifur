@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 
-### 🎯 I am a student studying ML research with background in systems, software, and agents.
+### 🎯 I am a systems/software engineer actively studying ML research.
 ### ❤️ Carnegie Mellon University, School of Computer Science, MSCS Fall 2026 - Spring 2028
 ### 💜 University of Washington, B.S in Computer Science, Fall 2022 - Spring 2026
 
