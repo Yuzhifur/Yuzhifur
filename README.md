@@ -1,31 +1,27 @@
 <p align="center">
-<h1 height="200px" align="center">Hi<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Yuzhi 与纸 🌈🐳</h1>
+<h1 height="200px" align="center">Hi<img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm Yuzheng Zhang 🌈🐳</h1>
 </p>
 <p align="center">
 
-### 🎯 I am a systems/software engineer actively studying ML research.
-### ❤️ Carnegie Mellon University, School of Computer Science, MSCS Fall 2026 - Spring 2028
+
+### 🎯 I'm a student researcher interested in Machine Learning Systems and Robot Learning.
+### ❤️ Carnegie Mellon University, M.S in Computer Science, Fall 2026 - Spring 2028
 ### 💜 University of Washington, B.S in Computer Science, Fall 2022 - Spring 2026
+
 
 <div align="center">
   <img src="https://github.com/Yuzhifur/Yuzhifur/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" title="Happy Coding uwu" />
 </div>
 
-- 🚀 I work at the intersection of **systems, engineering, and ML**: making models faster, smaller, and more capable.
+- 🌱 I'm currently working on **Thor: agent-driven VLA optimization** and **KCoral: Lightweight Benchmark Server for Agentic GPU Programming**.
 
-- 🌱 I'm independently building **Bayesian Avalon Reasoning Agent**, exploring how carefully designed agent systems and small specialized models can outperform much larger LLMs (new belief model: 0.720 AUC vs 0.598 baseline).
+- 📖 Class highlights at UW: CSE 493G **Deep Learning for Computer Vision**, CSE 447 **Natural Language Processing**, CSE 493L **Concurrency and Rust**, CSE 451 **Operating Systems**.
 
-- 💡 I want to get involved in these research trajectories: **Efficient/Edge Models**, **Training/Inferencing Frameworks**, **Social Deduction LLM Agents**, **Computational Photography**, and more.
-
-- 📖 Class highlights at UW: CSE 493S **Advanced ML**, CSE 493G **Deep Learning for Computer Vision**, CSE 447 **Natural Language Processing**, CSE 493L **Concurrency and Rust**, CSE 451 **Operating Systems**.
+- 🦜 Fun fact: People also call me Yuzhi - a shortened version of my first name, or Kirin - a friendly name that I like a lot.
 
 - 👨‍💻 All of my projects are available at **[https://github.com/Yuzhifur](https://github.com/Yuzhifur)**.
 
-- 📫 How to reach me: **yzz997819@gmail.com**, **waynez@andrew.cmu.edu**.
-
-- ⚡ Fun fact: I love **visual arts**, **handcrafting**, **photography**, **dragons**, **and more :)**
-
-- 🔥 Peak Token Usage: 183,983k/day
+- 📫 How to reach me: **waynez@andrew.cmu.edu**.
 
 
 # 📊 Statistics
