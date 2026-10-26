@@ -13,7 +13,7 @@
   <img src="https://github.com/Yuzhifur/Yuzhifur/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" title="Happy Coding uwu" />
 </div>
 
-- 🌱 I'm currently working on **Thor: agent-driven VLA optimization** and **KCoral: Lightweight Benchmark Server for Agentic GPU Programming**.
+- 🌱 I'm currently working on **Thor: agent-driven VLA optimization** and **[KCoral: Lightweight Benchmark Server for Agentic GPU Programming](https://blog.mlc.ai/2026/10/05/kcoral-lightweight-benchmark-server-for-agentic-gpu-programming)** at **[CMU Catalyst](https://catalyst.cs.cmu.edu/)**.
 
 - 📖 Class highlights at UW: CSE 493G **Deep Learning for Computer Vision**, CSE 447 **Natural Language Processing**, CSE 493L **Concurrency and Rust**, CSE 451 **Operating Systems**.
 
